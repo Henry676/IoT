@@ -1,0 +1,19 @@
+Estimado(a) Alma Lilia Hernandez Morales:
+
+Le informamos que su contrato en el puesto como Comerciante en la empresa Oro Fruit ya va a vencer, a lo que tendrá con acudir al departamento de RH a renovarlo.
+
+De otra forma, usted será ascendido a cliente.
+
+A continuación, se detalla la información asociada:
+
+- Dirección: Emiliano Zapata No. 15, Int. 4, Col. Los Mangos, Tuxpan, Veracruz, C.P. 92830
+- Teléfono: 7823332211
+- Correo electrónico: alma.lilia@example.com
+- Fecha de nacimiento: 1977-02-12
+- Edad: 48 años
+
+Por favor verifique que todos los datos sean correctos. Si existe alguna inconsistencia, comuníquese con el departamento de Recursos Humanos (de nuevo).
+
+Atentamente,  
+Ceti Colomos
+Division de ingenieria en desarrollo de software.

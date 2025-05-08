@@ -1,0 +1,19 @@
+Estimado(a) Fabian Navarro García:
+
+Le informamos que su contrato en el puesto como CEO en la empresa Sempai Zuchitl ya va a vencer, a lo que tendrá con acudir al departamento de RH a renovarlo.
+
+De otra forma, usted será ascendido a cliente.
+
+A continuación, se detalla la información asociada:
+
+- Dirección: Lázaro Cárdenas No. 200, Int. 1, Col. Las Palmas, Poza Rica, Veracruz, C.P. 93210
+- Teléfono: 7829876543
+- Correo electrónico: fabian.navarro@example.com
+- Fecha de nacimiento: 2000-09-22
+- Edad: 24 años
+
+Por favor verifique que todos los datos sean correctos. Si existe alguna inconsistencia, comuníquese con el departamento de Recursos Humanos (de nuevo).
+
+Atentamente,  
+Ceti Colomos
+Division de ingenieria en desarrollo de software.

@@ -1,0 +1,19 @@
+Estimado(a) Juan Leonardo De Leon Gonzalez:
+
+Le informamos que su contrato en el puesto como CEO en la empresa Sempai Zuchitl ya va a vencer, a lo que tendrá con acudir al departamento de RH a renovarlo.
+
+De otra forma, usted será ascendido a cliente.
+
+A continuación, se detalla la información asociada:
+
+- Dirección: Juárez No. 123, Int. 321, Col. Centro, Tuxpan, Veracruz, C.P. 92800
+- Teléfono: 1234567890
+- Correo electrónico: juan.leonardo@example.com
+- Fecha de nacimiento: 1999-01-01
+- Edad: 26 años
+
+Por favor verifique que todos los datos sean correctos. Si existe alguna inconsistencia, comuníquese con el departamento de Recursos Humanos (de nuevo).
+
+Atentamente,  
+Ceti Colomos
+Division de ingenieria en desarrollo de software.

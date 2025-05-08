@@ -1,0 +1,49 @@
+Leyendo y escribiendo archivos...
+
+abrir:
+f = open('argumento de ruta del archivo','lectura,escritura') -> Open es un apuntador
+
+print(f)
+
+leer:
+f.read()
+
+leer por linea -> readline
+
+leer todas las lineas -> readlines()
+
+o for line in f:
+    print(linea)
+
+escritura:
+write()
+
+with sirve para especificar poner el modo (r,w,a, etc)
+
+f.closed() una vez saliendo de la estructura with
+
+Modulo pickle
+
+|
+v
+
+Serializacion de objetos: Conversion de lenguajes de etiquetado a objetos
+como un json
+
+Combinacion de correspondencia -> con archivos de texto plano con datos de las personas
+donde yo etiquete los campos con los que se van a reemplazar los datos de las personas
+
+si se tiene 10 personas en una lista se generarán 10 archivos
+
+Tip: No hacer sustitucion de campo por campo, hay formas en python como convirtiendolo en diccionario, eso se pasa
+al archivo y lo hace en automatico, por lo tanto utilizar diccionarios.
+
+python qt (objetos graficos)
+usar oauth2 para correos de google (gmail)
+
+
+
+
+
+
+

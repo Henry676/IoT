@@ -1,0 +1,19 @@
+Estimado(a) Lourdes García Padilla:
+
+Le informamos que su contrato en el puesto como Maestra de primaria en la empresa SEP ya va a vencer, a lo que tendrá con acudir al departamento de RH a renovarlo.
+
+De otra forma, usted será ascendido a cliente.
+
+A continuación, se detalla la información asociada:
+
+- Dirección: Miguel Hidalgo No. 50, Int. 2, Col. La Rivera, Álamo, Veracruz, C.P. 92700
+- Teléfono: 7824567890
+- Correo electrónico: lourdes.garcia@example.com
+- Fecha de nacimiento: 2006-10-24
+- Edad: 18 años
+
+Por favor verifique que todos los datos sean correctos. Si existe alguna inconsistencia, comuníquese con el departamento de Recursos Humanos (de nuevo).
+
+Atentamente,  
+Ceti Colomos
+Division de ingenieria en desarrollo de software.
